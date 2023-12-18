@@ -16,29 +16,29 @@ class ProdukSeeder extends Seeder
     public function run()
     {
         Produk::insert([
-        [   'nama'      => 'Tunik Mega Mendung Merah',
-            'gambar'    => 'tunik-mm-merah.jpg',
+        [   'nama'      => 'Tunik Bolero Perca Biru',
+            'gambar'    => '1672319266_2-mega-mendungouter-batik-bolero-perca-biru.jpg',
             'harga'     => '558000',
             'stok'      => '2',
             'keterangan'=> 'Tunik eksklusif ini dibuat dengan kain katun yang dipilih dengan hati-hati dan dibatik dengan 2x proses pembatikan secara tulis, menawarkan kualitas tinggi dan penampilan tanpa cacat.'
         ],
 
-        [   'nama'      => 'Tunik Mega Mendung Comb Garis',
-            'gambar'    => 'tunik-mm-comb-garis.jpg',
+        [   'nama'      => 'Tunik Mega Mendung Cokelat',
+            'gambar'    => '1672319284_3-comb-mix-mega-mendung-cokelat.jpg',
             'harga'     => '854000',
             'stok'      => '4',
             'keterangan'=> 'Tunik dengan detail motif batik tulis mega mendung untuk tampilan casual dan formal look.'
         ],
 
-        [   'nama'      => 'Outer Batik Bolero Perca - Biru',
-            'gambar'    => 'Outer-Batik-Bolero-Perca-Biru.jpg',
+        [   'nama'      => 'Outer mega mendung hitam pink',
+            'gambar'    => '1672320096_5-mega-mendung-hitam-pink.jpg',
             'harga'     => '333000',
             'stok'      => '3',
             'keterangan'=> 'Bahan : Katun Premium Jenis Batik : Batik Tulis Mega Mendung  Warna : Biru.'
         ],
 
-        [   'nama'      => 'Blus Batik Wanita Comb Mix Mega Mendung - Pink Putih',
-            'gambar'    => 'Comb-Mix-Mega-Mendung-Pink-Putih.jpg',
+        [   'nama'      => 'Batik Mega Mendung Hitam',
+            'gambar'    => '1672320131_4-mega-mendung-hitam.jpg',
             'harga'     => '214000',
             'stok'      => '2',
             'keterangan'=> 'Bahan : Katun Premium Jenis Batik : Cap Motif : Mega Mendung Warna : Pink Putih'
